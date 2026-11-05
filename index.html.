@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HSC 2028 Arts Study</title>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f1f5f9;
+  text-align: center;
+}
+header {
+  background: #123c69;
+  color: white;
+  padding: 30px 10px;
+}
+section {
+  background: white;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 12px;
+}
+button {
+  background: #123c69;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>HSC 2028 Arts Study</h1>
+<p>তোমার পড়াশোনার সেরা সঙ্গী</p>
+</header>
+
+<section>
+<h2>Welcome Students!</h2>
+<p>HSC 2028 Arts বিভাগের শিক্ষার্থীদের জন্য Study Website.</p>
+</section>
+
+<section>
+<h2>আমাদের বিষয়সমূহ</h2>
+<p>বাংলা | ইংরেজি | ICT</p>
+<p>পৌরনীতি | ইতিহাস | কৃষিশিক্ষা | সমাজকর্ম</p>
+</section>
+
+<section>
+<h2>Study Motivation</h2>
+<p>আজকের পরিশ্রমই আগামী দিনের সফলতা।</p>
+</section>
+
+</body>
+</html>
